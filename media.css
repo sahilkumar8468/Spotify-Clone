@@ -1,0 +1,28 @@
+@media (max-width:752px){
+    .songInfo{
+        position: absolute;
+        bottom: 0;
+        margin-top: 15vh;
+        margin-left: 22%;
+    }
+
+
+}
+@media (max-width:500px){
+    .songInfo{
+        margin: auto;
+        margin-left: 20px;
+    }
+    
+    .songItem{
+        padding: 5px 5px;
+        font-size: small;
+    }
+    .timestamp{
+        padding-right: 10px;
+        margin-left: 30px;
+
+        
+    }
+
+}
